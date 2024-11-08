@@ -1,6 +1,6 @@
 # XBI-VS-TLT
 
-### This project explores the relationship between the TLT and the XBI. Our thesis for the relationship between these two ETFs relies on the observation that the companies within the XBI smaller biotech companies, and rely heavy on borrowing capital to fund their expenditures. Therefore, these companies are highly interest rate sensitive.
+### This project explores the relationship between the TLT and the XBI. Our thesis for the relationship between these two ETFs relies on the observation that the companies within the XBI are smaller biotech companies that rely heavily on borrowing capital to fund their expenditures. Therefore, these companies are highly interest rate sensitive.
 
 The TLT is an ETF which tracks the 20 Year US Treasuries. The price of TLT is reflective of interest rates. As interest rates go down, the TLT will go up. Conversely, as interest rates rise, the TLT will go down. This is due to the inverse relationship between bonds and interest rates. This project looks at exploring the relationship between the biotechnology sector and the TLT. As the TLT reacts to movement in interest rates, the stocks within the XBI should move as well. As interest rates go up, the TLT will move down, and so too should the XBI according to our thesis. Just as well, should interest rates down down, the TLT will move up and so too should the XBI. 
 
